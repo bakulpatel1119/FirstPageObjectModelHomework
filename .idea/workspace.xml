@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XrYBtNGzqkFCnn2fu1sQOEyQjJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\pageobjectmodel\src\test\Resources" />
+      <recent name="C:\Dev\pageobjectmodel\src\test\Resources\Browserdriver" />
+      <recent name="C:\Dev\pageobjectmodel\src\test\Browserdriver" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend">
+    <configuration name="TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userShouldBeAbleToReferAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToReferAFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.userSouldBeAbleToSortProductHighToLow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="userSouldBeAbleToSortProductHighToLow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
+        <item itemvalue="TestNG.TestSuite.userShouldBeAbleToReferAFriend" />
+        <item itemvalue="TestNG.TestSuite.userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" />
+        <item itemvalue="TestNG.TestSuite.userSouldBeAbleToSortProductHighToLow" />
+        <item itemvalue="TestNG.TestSuite.userShouldAbleToRegisterSuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="" />
+      <created>1581805547960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581805547960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582146779616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582146779616" />
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582135252258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1582135252258" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581978459313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978459313" />
+    <state width="1306" height="125" key="GridCell.Tab.0.bottom" timestamp="1582159724347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582159724347" />
+    <state width="1306" height="125" key="GridCell.Tab.0.center" timestamp="1582159724346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582159724346" />
+    <state width="1306" height="125" key="GridCell.Tab.0.left" timestamp="1582159724346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582159724346" />
+    <state width="1306" height="125" key="GridCell.Tab.0.right" timestamp="1582159724347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582159724347" />
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1582121761621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
+    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1582121761621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
+    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1582121761621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
+    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1582121761621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581978425181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978425181" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581978051636">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978051636" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582129932540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582129932540" />
+  </component>
+</project>
