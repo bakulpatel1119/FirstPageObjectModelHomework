@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="" />
+    <list default="true" id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddtoCartFeatureProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AddtoCartForFeaturedProductsResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChangeCurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChangeCurrencyResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckoutResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCommentsResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoadProp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Browserdriver/00.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Browserdriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Browserdriver/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Basepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Basepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/Excel format - NopCommerceTestCases.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/FeatureFile - NopCommerceTestCase.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/Testdata/Testdataconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/testconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Testdata/Testdataconfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/TestSuite.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +53,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1XrYBtNGzqkFCnn2fu1sQOEyQjJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,17 +64,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Dev\pageobjectmodel\src\test\Resources" />
-      <recent name="C:\Dev\pageobjectmodel\src\test\Resources\Browserdriver" />
-      <recent name="C:\Dev\pageobjectmodel\src\test\Browserdriver" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\pageobjectmodel\src\test\Resources\Browserdriver" />
+      <recent name="C:\Dev\pageobjectmodel\src\test\Resources" />
+      <recent name="C:\Dev\pageobjectmodel\src\test\Browserdriver" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend">
-    <configuration name="TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSuite.guestUserShouldBeAbletoAddComments">
+    <configuration name="TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -53,7 +84,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
+      <option name="METHOD_NAME" value="addToCartButtonIsPresentOnAllFeaturedProductss" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -61,7 +92,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite.guestUserShouldBeAbleToCheckoutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -71,7 +102,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckoutSuccessfully" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -79,7 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.userShouldBeAbleToReferAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite.guestUserShouldBeAbletoAddComments" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -89,7 +120,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="userShouldBeAbleToReferAFriend" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbletoAddComments" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -97,7 +128,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite.userShouldBeAbleToChangeCurrency" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +138,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToChangeCurrency" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,7 +146,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.userSouldBeAbleToSortProductHighToLow" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuite.verifyAddToCompareButtonForEachProduct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -125,7 +156,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="userSouldBeAbleToSortProductHighToLow" />
+      <option name="METHOD_NAME" value="verifyAddToCompareButtonForEachProduct" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -135,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
-        <item itemvalue="TestNG.TestSuite.userShouldBeAbleToReferAFriend" />
-        <item itemvalue="TestNG.TestSuite.userShouldBeAbletoCompareTwoDifferentProductsSuccessfully" />
-        <item itemvalue="TestNG.TestSuite.userSouldBeAbleToSortProductHighToLow" />
-        <item itemvalue="TestNG.TestSuite.userShouldAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuite.guestUserShouldBeAbletoAddComments" />
+        <item itemvalue="TestNG.TestSuite.guestUserShouldBeAbleToCheckoutSuccessfully" />
+        <item itemvalue="TestNG.TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss" />
+        <item itemvalue="TestNG.TestSuite.verifyAddToCompareButtonForEachProduct" />
+        <item itemvalue="TestNG.TestSuite.userShouldBeAbleToChangeCurrency" />
       </list>
     </recent_temporary>
   </component>
@@ -169,61 +200,93 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582146779616">
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582636104818">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="223" width="407" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582146779616" />
-    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582135252258">
+    <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1582636104818" />
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582655700058">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1582135252258" />
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582655700058" />
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582669297396">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1582669297396" />
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581978459313">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978459313" />
-    <state width="1306" height="125" key="GridCell.Tab.0.bottom" timestamp="1582159724347">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1582632294563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="125" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582159724347" />
-    <state width="1306" height="125" key="GridCell.Tab.0.center" timestamp="1582159724346">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582632294563" />
+    <state width="1306" height="259" key="GridCell.Tab.0.bottom" timestamp="1582751839591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="125" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582159724346" />
-    <state width="1306" height="125" key="GridCell.Tab.0.left" timestamp="1582159724346">
+    <state width="1300" height="497" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1306" height="259" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582751839591" />
+    <state width="1306" height="259" key="GridCell.Tab.0.center" timestamp="1582751839591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="125" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582159724346" />
-    <state width="1306" height="125" key="GridCell.Tab.0.right" timestamp="1582159724347">
+    <state width="1300" height="497" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1306" height="259" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582751839591" />
+    <state width="1306" height="259" key="GridCell.Tab.0.left" timestamp="1582751839591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="125" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582159724347" />
-    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1582121761621">
+    <state width="1300" height="497" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1306" height="259" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582751839591" />
+    <state width="1306" height="259" key="GridCell.Tab.0.right" timestamp="1582751839591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
-    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1582121761621">
+    <state width="1300" height="497" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1306" height="259" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582751839591" />
+    <state width="1306" height="219" key="GridCell.Tab.1.bottom" timestamp="1582680410794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
-    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1582121761621">
+    <state width="1300" height="218" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582558628652" />
+    <state width="1306" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582680410794" />
+    <state width="1306" height="219" key="GridCell.Tab.1.center" timestamp="1582680410794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
-    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1582121761621">
+    <state width="1300" height="218" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582558628651" />
+    <state width="1306" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582680410794" />
+    <state width="1306" height="219" key="GridCell.Tab.1.left" timestamp="1582680410794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582121761621" />
-    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1581978425181">
+    <state width="1300" height="218" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582558628651" />
+    <state width="1306" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582680410794" />
+    <state width="1306" height="219" key="GridCell.Tab.1.right" timestamp="1582680410794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1300" height="218" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582558628652" />
+    <state width="1306" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582680410794" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1582555783208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582555783208" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978425181" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1581978051636">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1582740972053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581978051636" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582129932540">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582546944786" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582740972053" />
+    <state x="65" y="59" key="new project wizard" timestamp="1582613752967">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582129932540" />
+    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1582613752967" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1582659448327">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582659448327" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582667760131">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582554843861" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582667760131" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pageobjectmodel$TestSuite_addToCartButtonIsPresentOnAllFeaturedProductss.ic" NAME="TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss Coverage Results" MODIFIED="1582736776805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
