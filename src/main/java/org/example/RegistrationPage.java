@@ -14,20 +14,20 @@ public class RegistrationPage extends Utils {
 
     public void userEnterRegistrationDetails()
     {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //enter firstname
         enterText(_firstName, firstName);
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //enter last name
         enterText(_lastName, lastName);
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //enter email address
         enterText(_email, "test1"+timeStamp+"@test.com");
         //enter password
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         enterText(_password, "test1234");
         //enter confirm password
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         enterText(_confirmPassword, "test1234");
         //click on register button
         clickonElement(_registerButton);

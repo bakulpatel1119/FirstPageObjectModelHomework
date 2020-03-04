@@ -10,12 +10,7 @@ public class CategoryPagePriceHighToLow extends Utils {
 
     public void sortPriceHighToLow()
     {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-
+        try {  Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
         //Click on Book Category
         clickonElement(_category);
         waitforElementisPresent(_clickSortBy,10);

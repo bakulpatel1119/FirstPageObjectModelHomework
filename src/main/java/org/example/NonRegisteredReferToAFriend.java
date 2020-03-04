@@ -14,32 +14,29 @@ public class NonRegisteredReferToAFriend extends Utils
 
     public void nonRegisteredUserSelectProdutToReferToaFriend()
     {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        try {Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
 
         // click on Book Category
         clickonElement(_category);
 
+        try {Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
         //Click on Click on product Fahrenheit 451 by Ray Bradbury
         clickonElement(_fahrenheit451);
-        waitUntilClickable(_fahrenheit451,20);
 
-        waitForVisible(_emailToFriend,10);
-        // And Click on Email a Friend
+        try {Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         clickonElement(_emailToFriend);
-        waitUntilClickable(_emailToFriend,20);
 
+        try {Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //Enter Friend's email address
-        waitforElementisPresent(_friendEmailAddress,10);
-        enterText(_friendEmailAddress, "test@test.com.com");
-        waitforElementisPresent(_yourEmailAddress,10);
 
+        try {Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        enterText(_friendEmailAddress, "test@test.com");
+
+        try {Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //And Enter your Invalid (Not Registered) email address
         enterText(_yourEmailAddress, "test2225553@test.com");
 
+        try {Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
         //Click on Send Email button
         clickonElement(_clickSendEmailButton);
     }

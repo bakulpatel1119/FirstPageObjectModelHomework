@@ -2,8 +2,6 @@ package org.example;
 
 import org.openqa.selenium.By;
 
-import java.lang.ref.SoftReference;
-
 public class RegisteredUserReferToAFriendResultPage extends Utils
 {
 

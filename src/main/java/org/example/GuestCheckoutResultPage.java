@@ -8,6 +8,7 @@ public class GuestCheckoutResultPage extends Utils
     private By _guestCheckOutResult =  By.xpath("//strong[text()=\"Your order has been successfully processed!\"]");
     String expected = "Your order has been successfully processed!";
 
+
     // verify Guest user can checkout successfully
     public void verifyCheckoutSuccessfulMessage()
     {

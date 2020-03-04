@@ -9,6 +9,7 @@ public class NonRegisteredReferToAFreinedResultPage extends Utils
     String expected = "Only registered customers can use email a friend feature";
 
 
+
     public void nonRegisteredUserShouldNotbeAbleToReferToAFriend()
     {
         assertTextMessage("You should be Registered Customer to Refer to a Friend", expected, _nonRegisteredUserNotSuccess);

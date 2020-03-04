@@ -13,52 +13,54 @@ public class RegisteredUserReferetoFreiend extends Utils
     private By _yourEmailAddress = By.xpath("//input[@id=\"YourEmailAddress\"]");
     private By _clickSendEmailButton = By.xpath("//input[@class=\"button-1 send-email-a-friend-button\"]");
 
-public void selectProdutToReferToaFriend()
-{
-    // Click on login button
-    clickonElement(_login);
-    waitUntilClickable(_login,10);
 
-    //Enter Valid email address
-    waitForVisible(_emailAddress,10);
-    enterText(_emailAddress,"super@super.com");
-    waitUntilClickable(_emailAddress,10);
+    public void userIsLoggedIn(){
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        // Click on login button
+        clickonElement(_login);
 
-    //Enter valid Password
-    waitForVisible(_password,10);
-    enterText(_password, "supersuper");
-    waitUntilClickable(_password,15);
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        //Enter Valid email address
+        enterText(_emailAddress,"super@super.com");
 
-    //click on login button
-    clickonElement(_submitLogin);
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        //Enter valid Password
+        enterText(_password, "supersuper");
+
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        //click on login button
+        clickonElement(_submitLogin);
+    }
+
+
+    private By _loggedInResults = By.xpath("//a[text()='Log out']");
+    String expected = "Log out";
+
+    public void verifyUserIsLoggdInSuccessfully()
+    {
+        assertTextMessage("You must be logged in to refer to A Friend",expected,_loggedInResults);
+    }
+
+
+    public void selectProdutToReferToaFriend()
+    {
+        try { Thread.sleep(10000); } catch (InterruptedException e) { e.printStackTrace(); }
 
     // click on Book Category
-    waitForVisible(_category,10);
     clickonElement(_category);
-    waitForVisible(_category,15);
 
+        try { Thread.sleep(10000); } catch (InterruptedException e) { e.printStackTrace(); }
     ////Click on Click on product Fahrenheit 451 by Ray Bradbury
-    waitForVisible(_fahrenheit451,10);
     clickonElement(_fahrenheit451);
-    waitUntilClickable(_fahrenheit451,10);
-
-
-    waitForVisible(_emailToFriend,10);
 
     // // And Click on Email a Friend
     clickonElement(_emailToFriend);
 
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
     //Enter Friend's email address
-    waitForVisible(_friendEmailAddress,10);
-    enterText(_friendEmailAddress, "bakulpatel1119"+timeStamp()+"@gmail.com");
-    waitUntilClickable(_friendEmailAddress,10);
+    enterText(_friendEmailAddress, "bakulpatel1119@gmail.com");
 
-    //And Enter your valid (Registered) email address
-    waitForVisible(_yourEmailAddress,10);
-    enterText(_yourEmailAddress, "super@super.com");
-    waitUntilClickable(_yourEmailAddress,10);
-
-    //Click on Send Email button
+      //Click on Send Email button
     clickonElement(_clickSendEmailButton);
 }
 }

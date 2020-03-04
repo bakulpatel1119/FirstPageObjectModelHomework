@@ -12,28 +12,20 @@ public class BookCategoryComparisionPage extends Utils
 
     public void selectProductsToCompare ()
     {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+       try { Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
 
         //click on Book category
         clickonElement(_category);
 
+        try { Thread.sleep(50000); } catch (InterruptedException e) { e.printStackTrace(); }
         // Click on Add to Compare for product Fahrenheit 451 by Ray Bradbury
         clickonElement(_fahrenheit451);
-        waitUntilClickable(_fahrenheit451,20);
 
-        //click on Book category
-        clickonElement(_category);
-
+        try { Thread.sleep(40000); } catch (InterruptedException e) { e.printStackTrace(); }
         //Click on Add to Compare for product First Prize Pies
         clickonElement(_firstprizepies);
-        waitUntilClickable(_firstprizepies,20);
 
-        waitForVisible(_compare,10);
-
+        try { Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
         // Click on Product comparision on Popup Bar
         clickonElement(_compare);
     }
