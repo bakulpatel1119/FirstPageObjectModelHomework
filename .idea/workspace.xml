@@ -2,59 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/AddtoCartButton.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/ReferProductToAFriendByNon-RegisteredUser.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/changeCurrencyCode.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/comparePage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/guestCheckout.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/guestUserAddComments.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/referProudctToAFriendByRegisteredUser.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/sortPriceLowToHigh.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/MyStepdefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/Categories.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/AddtoCartForFeaturedProductsResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/AddtoCartForFeaturedProductsResultPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionResultPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CategoryPagePriceHighToLow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CategoryPagePriceHighToLow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CategoryPagePriceHighToLowResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CategoryPagePriceHighToLowResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckoutResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckoutResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GuestCommentsResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCommentsResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NonRegisteredReferToAFreinedResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NonRegisteredReferToAFreinedResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NonRegisteredReferToAFriend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NonRegisteredReferToAFriend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegisteredUserReferToAFriendResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisteredUserReferToAFriendResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegisteredUserReferetoFreiend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisteredUserReferetoFreiend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistrationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistrationResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationResultPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/Browserdriver/00.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/Browserdriver/IEDriverServer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/FeatureFile in Excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/FeatureFile in Excel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/guestCheckout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/guestCheckout.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/register.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/Resources/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/testconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/AddtoCartForFeaturedProductsResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/AddtoCartForFeaturedProductsResultPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MyStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Destination/report.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionResultPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/CategoryPagePriceHighToLow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/CategoryPagePriceHighToLow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GuestCheckoutResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/GuestCheckoutResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GuestCommentsResults.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/GuestCommentsResults.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NonRegisteredReferToAFreinedResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/NonRegisteredReferToAFreinedResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/NonRegisteredReferToAFriend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/NonRegisteredReferToAFriend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegisteredUserReferToAFriendResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegisteredUserReferToAFriendResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegisteredUserReferetoFreiend.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegisteredUserReferetoFreiend.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistrationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegistrationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GuestCheckOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/GuestCheckOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistrationResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegistrationResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Browserdriver/00.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Browserdriver/IEDriverServer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/BaseTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/TestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/guestCheckout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/guestCheckout.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/register.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MyStepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MyStepdefs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/RunTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testconfig.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +41,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
-        <option value="Class" />
         <option value="Substep Feature" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -96,25 +68,26 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tanumati" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/org/example" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\pageobjectmodel\src\test\java\org\example" />
       <recent name="C:\Dev\pageobjectmodel\src\test\Resources\features" />
       <recent name="C:\Dev\pageobjectmodel\src\test\Resources" />
       <recent name="C:\Dev\pageobjectmodel\src\test\Resources\Browserdriver" />
       <recent name="C:\Dev\pageobjectmodel\src\test\Browserdriver" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.example" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RunTest">
-    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully">
+    <configuration name="TestSuit.guestUserShouldBeAbleToAddCommentsSuccessfully" type="TestNG" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -122,32 +95,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.RunTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="pageobjectmodel" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="addToCartButtonIsPresentOnAllFeaturedProductss" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToAddCommentsSuccessfully" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.guestUserShouldBeAbletoAddComments" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -155,17 +122,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="guestUserShouldBeAbletoAddComments" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckOutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -173,17 +149,26 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
-      <option name="METHOD_NAME" value="nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckOutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSuite.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
         <pattern>
@@ -191,23 +176,283 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckOutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="guestUserShouldBeAbleToCheckOutSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.registeredUserShouldBeAbleToReferProductToAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="registeredUserShouldBeAbleToReferProductToAFriend" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
       <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowsers -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowsers=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbleToRegisterSuccessfully" type="TestNG" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=false" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbletoRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbletoRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowsers=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbletoRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbletoRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowsers=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldAbletoRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbletoRegisterSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.TestSuit.userShouldAbleToRegisterSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToAddCommentsSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.registeredUserShouldBeAbleToReferProductToAFriend" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RunTest" />
-        <item itemvalue="TestNG.TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss" />
-        <item itemvalue="TestNG.TestSuite.userShouldAbleToRegisterSuccessfully" />
-        <item itemvalue="TestNG.TestSuite.guestUserShouldBeAbletoAddComments" />
-        <item itemvalue="TestNG.TestSuite.nonRegisteredUserShouldNotBeAbleToReferToAFriend" />
+        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.registeredUserShouldBeAbleToReferProductToAFriend" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +486,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583278313356" />
+    <state x="137" y="18" width="1092" height="558" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584548286421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" width="1092" height="558" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584548286421" />
     <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583276921885">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -249,10 +498,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="385" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1583171677106" />
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583245577080">
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584450874748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1583245577080" />
+    <state x="479" y="223" width="408" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1584450874748" />
     <state x="332" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582669297396">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -265,26 +514,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583319217961" />
-    <state width="1306" height="343" key="GridCell.Tab.0.bottom" timestamp="1583363383219">
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom" timestamp="1584549014791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
-    <state width="1306" height="343" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583363383219" />
-    <state width="1306" height="343" key="GridCell.Tab.0.center" timestamp="1583363383219">
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
+    <state width="1323" height="208" key="GridCell.Tab.0.center" timestamp="1584549014791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
-    <state width="1306" height="343" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583363383219" />
-    <state width="1306" height="343" key="GridCell.Tab.0.left" timestamp="1583363383218">
+    <state width="1323" height="208" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
+    <state width="1323" height="208" key="GridCell.Tab.0.left" timestamp="1584549014791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
-    <state width="1306" height="343" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583363383218" />
-    <state width="1306" height="343" key="GridCell.Tab.0.right" timestamp="1583363383219">
+    <state width="1323" height="208" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
+    <state width="1323" height="208" key="GridCell.Tab.0.right" timestamp="1584549014791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
-    <state width="1306" height="343" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583363383219" />
+    <state width="1323" height="208" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
     <state width="1306" height="219" key="GridCell.Tab.1.bottom" timestamp="1583258918910">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -314,15 +563,15 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582992717825" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1583319178289">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1584539018918">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582546944786" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583319178289" />
-    <state x="65" y="59" key="new project wizard" timestamp="1583248424952">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584539018918" />
+    <state x="65" y="0" key="new project wizard" timestamp="1584450371298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="59" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583248424952" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1584450371298" />
     <state x="435" y="285" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1583262566782">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -331,11 +580,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582659448327" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582667760131">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584312879308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582554843861" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582667760131" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584312879308" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pageobjectmodel$TestSuite_addToCartButtonIsPresentOnAllFeaturedProductss.ic" NAME="TestSuite.addToCartButtonIsPresentOnAllFeaturedProductss Coverage Results" MODIFIED="1582736776805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

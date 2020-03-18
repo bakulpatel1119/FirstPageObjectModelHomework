@@ -1,5 +1,5 @@
 Feature: guest user should checkout successfully
-  @test
+  @test3
   Scenario: guest user should be able to checkout
     Given user is on Homepage
     When Click on Book-Category

@@ -1,6 +1,6 @@
     Feature: user should be able to register successfully when filled all compulsory field
 
-      @test
+      @test2
       Scenario: user should be able to register successfully when filled all compulsory field
       Given user is on Home Page
       When user click on Register Button

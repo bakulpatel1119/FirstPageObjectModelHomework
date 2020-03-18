@@ -1,14 +1,17 @@
 package org.example;
+
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
+import org.testng.asserts.SoftAssert;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 
 public class Utils extends Basepage {
 
@@ -98,6 +101,35 @@ public class Utils extends Basepage {
     Assert.assertTrue(driver.getCurrentUrl().contains(text));
     }
 
+//To get text and verify from list
+
+    public void getTextFromListAndVerify(By by,String c) {
+
+        //creating obj of soft assert class->for multiple values check
+
+        SoftAssert softAssert = new SoftAssert();
+
+        //creating list and finding value
+
+        List<WebElement> allProduct = driver.findElements(by);
+
+        //for each loop for product comparision
+
+        for (WebElement product : allProduct) {
+
+            //to print price
+
+            System.out.println(product.getText());
+
+            //to verify sign
+
+            softAssert.assertTrue(product.getText().contains(c), "price does not contain " + c);
+
+        }
+
+        softAssert.assertAll();
+
+    }
 
 
 }

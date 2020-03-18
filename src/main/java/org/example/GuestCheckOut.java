@@ -60,13 +60,16 @@ public class GuestCheckOut extends Utils {
      clickonElement(_clickOnProduct);
 
      //Click on Add to Cart Button
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_clickonAddtoCartButton);
 
      //click on Select Shopping Cart Button on Popup Bar
+        try { Thread.sleep(3000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_selectShopCart);
-     try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+
 
      // accept terms and conditions
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_clickTermsAndCond);
 
      // click on submit button
@@ -90,12 +93,15 @@ public class GuestCheckOut extends Utils {
      try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
 
      //select country name
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      selectFromDropDownByValue(_country,countryName);
 
      //select state
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      selectFromDropDownByValue(_stateProvince,stateName);
 
      //enter city name
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      enterText(_cityName,cityName1);
 
      // enter address line 1
@@ -105,22 +111,26 @@ public class GuestCheckOut extends Utils {
      enterText(_zipPostalCode,zipPostalCode1);
 
      // enter phone number
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      enterText(_phonenumber, phonenumber1);
-     try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
 
      // click on submit button
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_submit);
-     try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
 
      // click on continue button
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_continueButton);
 
      // Select payment method
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_selectPaymentMethod);
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      // click on continues button
      clickonElement(_continueButton1);
 
      // select card type
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      selectFromDropDownByValue(_selectCardTye,cardType1);
 
      //enter card holder name
@@ -133,14 +143,15 @@ public class GuestCheckOut extends Utils {
      selectFromDropDownByValue(_cardExpiryMonth,cardExpiry1);
 
      //enter card verification code
-     enterText(_cardCode,cardcode);
-     try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        enterText(_cardCode,cardcode);
 
      // click on continue button
-     clickonElement(_continueButton2);
         try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
+        clickonElement(_continueButton2);
 
      //click on confirm button
+        try { Thread.sleep(5000); } catch (InterruptedException e) { e.printStackTrace(); }
      clickonElement(_confirmButton);
  }
 }

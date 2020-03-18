@@ -1,5 +1,4 @@
 package org.example;
-
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -7,7 +6,6 @@ import io.cucumber.java.en.When;
 import org.testng.asserts.SoftAssert;
 
 public class MyStepdefs extends Utils {
-
     BrowserSelector browserSelector = new BrowserSelector();
     SoftAssert softAssert = new SoftAssert();
     HomePage homePage = new HomePage();
@@ -353,5 +351,34 @@ public class MyStepdefs extends Utils {
     public void messageShouldDisplayYourOrderHasBeenSuccessfullyProcessed() {
         guestCheckoutResultPage.verifyCheckoutSuccessfulMessage();
     }
+
+    @When("user clicks on {string} link from top menu")
+    public void userClicksOnLinkFromTopMenu(String category) {
+        homePage.clicOnCategoryLinks(category);
+
+    }
+
+    @Then("user should be able to nevigate to {string} successfully")
+    public void userShouldBeAbleToNevigateToSuccessfully(String related_category_page)
+    {
+        Utils.assertURL(related_category_page);
+    }
+
+    @When("user click on {string} from top menu")
+    public void userClickOnFromTopMenu(String category) {
+        homePage.clicOnCategoryLinks(category);
+    }
+
+    @And("click on {string}")
+    public void clickOn(String subcategory)
+    {
+        homePage.clickOnSubCategory(subcategory);
+    }
+
+    @Then("user should be able to see products successfully")
+    public void userShouldBeAbleToSeeProductsSuccessfully() {
+    }
+//.......................................................................................................
+
+
 }
-//////////////////////////////////////////////////////////// END //////////////////////////////////////////////////////
