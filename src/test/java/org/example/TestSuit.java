@@ -31,7 +31,7 @@ public class TestSuit extends BaseTest {
 //TO RUN TEST IN LOCAL MACHINE, MAKE SURE "-Dbrowser=chrome -DSauce=false" is updated in VM Option by Edit Configuration
 
     /////////////////////////////////////////////////////  PROGRAMME 1 /////////////////////////////////////////////////
-    @Test
+  //  @Test
         public void guestUserShouldBeAbleToCheckOutSuccessfully() {
         // Enter details for checkout
         guestCheckOut.enterDetailsForCheckout();
@@ -41,7 +41,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     /////////////////////////////////////////////////////  PROGRAMME 2 /////////////////////////////////////////////////
-    @Test
+    //@Test
     public void userShouldBeAbleToCompareTwoProductSuccessfully() {
         // select product to compare
         bookCategoryComparisionPage.selectProductsToCompare();
@@ -51,7 +51,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     //////////////////////////////////////////////////////  PROGRAMME 3 ////////////////////////////////////////////////
-    @Test
+   // @Test
     public void registeredUserShouldBeAbleToReferProductToAFriend() {
         //enter username and password to login
         registeredUserReferetoFreiend.userIsLoggedIn();
@@ -63,7 +63,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     /////////////////////////////////////////////////////  PROGRAMME 4 /////////////////////////////////////////////////
-    @Test
+ //   @Test
     public void nonRegisteredUserShouldNotBeAbleToReferProductToAFriend() {
         //select product refer to a Friend
         nonRegisteredReferToAFriend.nonRegisteredUserSelectProdutToReferToaFriend();
@@ -73,7 +73,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     /////////////////////////////////////////////////////  PROGRAMME 5 ////////////////////////////////////////////////
-    @Test
+   // @Test
     public void userShouldBeAbleToSortPriceHighToLow() {
         //soft price high to low
         categoryPagePriceHighToLow.sortPriceHighToLow();
@@ -83,7 +83,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     ///////////////////////////////////////////////////  PROGRAMME 6 ////////////////////////////////////////////////////
-    @Test
+    //@Test
     public void guestUserShouldBeAbleToAddCommentsSuccessfully() {
         // Add comment as a guest customer
         guestComments.addComments();
@@ -93,7 +93,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     /////////////////////////////////////////////////////  PROGRAMME 7 /////////////////////////////////////////////////
-    @Test
+    //@Test
     public void userShouldBeAbleToChangeCurrencySuccessfully() {
         // change currency US dollar to Euro
         changeCurrency.selectCurrencyUsDollarToEuro();
@@ -107,7 +107,7 @@ public class TestSuit extends BaseTest {
         browserSelector.quitBrowser();
     }
     /////////////////////////////////////////////////////  PROGRAMME 8 /////////////////////////////////////////////////
-    @Test
+  //  @Test
     public void userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully() {
         //Scroll down to Featured products to see Add to cart Button
         addtoCartFeatureProducts.scrollDown();

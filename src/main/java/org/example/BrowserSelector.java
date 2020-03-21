@@ -32,7 +32,7 @@ public class BrowserSelector extends Basepage
             {
 
                 DesiredCapabilities caps = DesiredCapabilities.chrome();
-                caps.setCapability("platform", "macOS 10.15");
+                caps.setCapability("platform", "Windows 8");
                 caps.setCapability("version", "78.0");
 
                                 try {

@@ -2,32 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53b10944-2d6b-4e8b-9b66-4df34a535a9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/features/Categories.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BookCategoryComparisionPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/GuestCheckOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RegistrationResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RegistrationResultPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/guestCheckout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/guestCheckout.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/features/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/features/register.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Resources/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Resources/testconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/MyStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/RunTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/Destination/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BookCategoryComparisionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/BrowserSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/GuestCheckOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/GuestCheckOut.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/RegistrationResultPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/RegistrationResultPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/guestCheckout.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/guestCheckout.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/register.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/MyStepdefs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/MyStepdefs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/RunTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/RunTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/jquery-1.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Destination/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +71,7 @@
       <recent name="C:\Dev\pageobjectmodel\src\test\Browserdriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully">
+  <component name="RunManager" selected="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully">
     <configuration name="TestSuit.guestUserShouldBeAbleToAddCommentsSuccessfully" type="TestNG" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
@@ -263,7 +248,7 @@
       <option name="METHOD_NAME" value="userShouldAbleToRegisterSuccessfully" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowsers -DSauce=true" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=flase" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -330,6 +315,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSuit.userShouldAbletoRegisterSuccessfully (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="pageobjectmodel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuit" />
+      <option name="METHOD_NAME" value="userShouldAbletoRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSuit.userShouldAbletoRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pageobjectmodel" />
       <extension name="coverage">
@@ -344,7 +347,7 @@
       <option name="METHOD_NAME" value="userShouldAbletoRegisterSuccessfully" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea -Dbrowsers=chrome -DSauce=true" />
+      <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -DSauce=false" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -445,14 +448,15 @@
       <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
       <item itemvalue="TestNG.TestSuit.registeredUserShouldBeAbleToReferProductToAFriend" />
       <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully" />
+      <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully (1)" />
         <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
         <item itemvalue="TestNG.TestSuit.guestUserShouldBeAbleToCheckOutSuccessfully" />
         <item itemvalue="TestNG.TestSuit.registeredUserShouldBeAbleToReferProductToAFriend" />
-        <item itemvalue="TestNG.TestSuit.userShouldAbletoRegisterSuccessfully" />
-        <item itemvalue="TestNG.TestSuit.userShouldBeAbleToVerifyAddToCartButtonIsPresentSuccessfully" />
       </list>
     </recent_temporary>
   </component>
@@ -486,9 +490,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583278313356" />
-    <state x="137" y="18" width="1092" height="558" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584548286421">
+    <state x="137" y="18" width="1092" height="558" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584807779859">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584807779859" />
     <state x="137" y="18" width="1092" height="558" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584548286421" />
     <state x="100" y="100" width="1166" height="528" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583276921885">
       <screen x="0" y="0" width="1366" height="728" />
@@ -514,25 +519,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583319217961" />
-    <state width="1323" height="208" key="GridCell.Tab.0.bottom" timestamp="1584549014791">
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom" timestamp="1584808535325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1323" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584808535325" />
     <state width="1323" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
-    <state width="1323" height="208" key="GridCell.Tab.0.center" timestamp="1584549014791">
+    <state width="1323" height="208" key="GridCell.Tab.0.center" timestamp="1584808535324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1323" height="208" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584808535324" />
     <state width="1323" height="208" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
-    <state width="1323" height="208" key="GridCell.Tab.0.left" timestamp="1584549014791">
+    <state width="1323" height="208" key="GridCell.Tab.0.left" timestamp="1584808535324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1323" height="208" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584808535324" />
     <state width="1323" height="208" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
-    <state width="1323" height="208" key="GridCell.Tab.0.right" timestamp="1584549014791">
+    <state width="1323" height="208" key="GridCell.Tab.0.right" timestamp="1584808535325">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1300" height="497" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-158.1280.680@0.0.1366.728" timestamp="1582561323164" />
+    <state width="1323" height="208" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1584808535325" />
     <state width="1323" height="208" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584549014791" />
     <state width="1306" height="219" key="GridCell.Tab.1.bottom" timestamp="1583258918910">
       <screen x="0" y="0" width="1366" height="728" />
